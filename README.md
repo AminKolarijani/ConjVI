@@ -10,6 +10,7 @@ Conjugate Value Iteration (CVI) MATLAB Package - By M.A.S. Kolarijani
 
 *** DISCLAIMER: Multiple routines are borrowed from the d-CDP MATLAB package avialable at "https://github.com/AminKolarijani/d-CDP". See also [3].
 
+-------------------------------
 
 What to provide and how to provide it: Within the folder "MATLAB package with illustration"
 
@@ -21,6 +22,7 @@ What to provide and how to provide it: Within the folder "MATLAB package with il
 
 (4) ALL the outputs are available in the data structure "Result". You may see the description of these variables in the comments of section "(3) Implementation and Results".
 
+-------------------------------
 
 References:
 
