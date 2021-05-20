@@ -16,7 +16,7 @@ What to provide and how to provide it: Within the folder "MATLAB package with il
 
 (1) Open the m-file "MAIN.m".
 
-(2) Go through section "(1) Problem data (inputs given by the user)," and follow the instructions provided in the comments.
+(2) Go through section "(1) Problem data (inputs given by the user)", and follow the instructions provided in the comments.
 
 (3) Once you provided the required inputs, you may run the code.
 
