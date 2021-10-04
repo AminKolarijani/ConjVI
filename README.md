@@ -26,7 +26,7 @@ What to provide and how to provide it: Within the folder "MATLAB package with il
 
 References:
 
-[1] M.A.S. Kolarijani, C.F. Max, and P. Mohajerin Esfahani (2020), Fast Approximate Dynamic Programming for Infinite-Horizon Continuous-State Markov Decision Processes, preprint arXiv:2102.08880.
+[1] M.A.S. Kolarijani, C.F. Max, and P. Mohajerin Esfahani (2021), Fast Approximate Dynamic Programming for Infinite-Horizon Continuous-State Markov Decision Processes, preprint arXiv:2102.08880.
 
 [2] Y. Lucet (1997), Faster than fast Legendre transform, the linear-time Legendre transform, Numerical Algorithms, 16, pp. 171-185.
 
