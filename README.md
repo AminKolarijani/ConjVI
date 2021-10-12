@@ -1,4 +1,4 @@
-# CVI
+# ConjVI
 
 Conjugate Value Iteration (ConjVI) MATLAB Package - By M.A.S. Kolarijani & P. Mohajerin Esfahani
 
