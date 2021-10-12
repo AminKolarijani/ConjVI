@@ -1,6 +1,6 @@
 # CVI
 
-Conjugate Value Iteration (ConjVI) MATLAB Package - By M.A.S. Kolarijani
+Conjugate Value Iteration (ConjVI) MATLAB Package - By M.A.S. Kolarijani and P. Mohajerin Esfahani
 
 *** NOTE: See [1] for a detailed description of the algorithm included in this package.
 
